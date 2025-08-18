@@ -63,7 +63,13 @@ format_df <- function(df) {
   return(df)
 }
 
-calc_df <- function(df) {
+calc_hourly <- function(df) {
+  df <- df %>% group_by(month, time) %>% summarise_each(funs(mean))
+  
+  return(df)
+}
+
+calc_monthly <- function(df) {
   year <- format(as.POSIXct(df$Datetime),format = "%Y")
   
   # sum up counts per day
@@ -90,11 +96,16 @@ f23 <- format_df(f23)
 f24 <- format_df(f24)
 f25 <- format_df(f25)
 
+# sum up counts per month and hour
+hours24 <- calc_hourly(f24)
+
+write.csv(hours24, paste(directory, folder, 'cycle_count_hours24.csv', sep=''))
+
 # sum up counts per month
-month22 <- calc_df(f22)
-month23 <- calc_df(f23)
-month24 <- calc_df(f24)
-month25 <- calc_df(f25)
+month22 <- calc_monthly(f22)
+month23 <- calc_monthly(f23)
+month24 <- calc_monthly(f24)
+month25 <- calc_monthly(f25)
 
 # join different years together
 months <- full_join(month22, month23)
