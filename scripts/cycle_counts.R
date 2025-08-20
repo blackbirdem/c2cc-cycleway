@@ -97,9 +97,17 @@ f24 <- format_df(f24)
 f25 <- format_df(f25)
 
 # sum up counts per month and hour
+hours22 <- calc_hourly(f22)
+hours23 <- calc_hourly(f23)
 hours24 <- calc_hourly(f24)
+hours25 <- calc_hourly(f25)
+
+hours <- full_join(hours22, hours23)
+hours <- full_join(hours, hours24)
+hours <- full_join(hours, hours25)
 
 write.csv(hours24, paste(directory, folder, 'cycle_count_hours24.csv', sep=''))
+write.csv(hours, paste(directory, folder, 'cycle_count_hours.csv', sep=''))
 
 # sum up counts per month
 month22 <- calc_monthly(f22)
@@ -116,6 +124,11 @@ write.csv(month25, paste(directory, folder, 'cycle_count_month25.csv', sep=''))
 
 
 #PLOTS
+# get mean of hourly values
+h <- hours %>%
+  group_by(time) %>%
+  summarise(`Mean (per hour)` = mean(Total))
+
 # get mean of monthly values
 m <- months %>%
   group_by(Month) %>%
@@ -131,6 +144,10 @@ for (i in list('07', '08', '09', '10', '11', '12')) {
 m25$`Mean (per day)` <- as.numeric(m25$`Mean (per day)`)
 
 # print plots
+ggplot(h, aes(x=time, y=`Mean (per hour)`)) + geom_bar(stat = "identity") + ylim(0,125) +
+  labs(title="Cycle counts January 2022 - May 2025", x = "Time") +
+  scale_x_discrete(guide = guide_axis(check.overlap = TRUE))
+
 ggplot(m, aes(x=Month, y=`Mean (per day)`)) + geom_bar(stat = "identity") + ylim(0,2000) +
   labs(title="Cycle counts 2022-2024")
 ggplot(m25, aes(x=Month, y=`Mean (per day)`)) + geom_bar(stat = "identity") + ylim(0,2000) +
