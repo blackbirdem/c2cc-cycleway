@@ -1,0 +1,6 @@
+dependent,type,dem_age,dem_gender,dem_ethnicity,dem_employment,dem_education,car_ownership,cycling_frequ,cycling_history,leave_cycleway,escort,route_change,perception_safety_all,perception_speed_all,perception_stress_all,x_purpose_work,x_purpose_leisure,x_purpose_multi.mode,x_purpose_other,x_purpose_education,x_leave_reason_trafficlight,x_leave_reason_roadquality,x_leave_reason_intersection,x_stress_source_car,x_stress_source_intersection,x_stress_source_cyclist,x_stress_source_bus,x_stress_source_pedestrian,idx_2nd_purposes,idx_gear,idx_leave_reason_infrastructure,idx_leave_reason_people
+cycling_frequ,ord,x,x,x,x,x,x,,x,,x,x,x,x,x,x,x,x,x,x,,,,,,,,,x,x,x,x
+route_change,ord,x,x,x,,x,x,x,x,x,x,,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+perception_safety_all,ord,x,x,,,x,,x,x,x,x,x,,,,x,x,,,,,,,,x,x,,x,x,x,,
+perception_speed_all,ord,x,x,x,,x,,x,x,x,x,x,,,,x,x,,,,,,,x,x,x,x,x,x,x,x,x
+perception_stress_all,ord,x,x,x,,x,,x,x,x,x,x,,,,x,x,,,,,,,x,x,x,x,x,x,x,x,x
