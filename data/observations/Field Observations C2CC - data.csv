@@ -1,0 +1,958 @@
+﻿datetime,type,type_yellow,type_red,count,from,direction,transgression,comment,location
+11/06/2025 13:45,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 13:46,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:46,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 13:46,bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 13:46,delivery bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:47,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 13:47,delivery bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 13:47,bike,NA,NA,1,Clontarf,City centre,,into fairview park,Marino Crescent Park
+11/06/2025 13:48,delivery bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 13:48,delivery bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 13:48,bike,NA,NA,1,Clontarf,Marino,,,Marino Crescent Park
+11/06/2025 13:48,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:49,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 13:49,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:49,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:51,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:51,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 13:52,bike,NA,NA,1,Marino,City centre,through crossing,,Marino Crescent Park
+11/06/2025 13:52,bike,NA,NA,1,Marino,City centre,through crossing,,Marino Crescent Park
+11/06/2025 13:53,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:53,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:53,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:53,bike,NA,NA,1,Marino,City centre,,into fairview park,Marino Crescent Park
+11/06/2025 13:53,bike,NA,NA,1,Clontarf,City centre,wrong side,,Marino Crescent Park
+11/06/2025 13:54,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:55,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:55,bike,NA,NA,1,City centre,Clontarf,"over red,on road",,Marino Crescent Park
+11/06/2025 13:56,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:56,bike,NA,NA,1,City centre,Clontarf,wrong side,,Marino Crescent Park
+11/06/2025 13:56,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:57,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 13:57,delivery bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 13:57,delivery bike,NA,NA,1,Clontarf,Clontarf,,,Marino Crescent Park
+11/06/2025 13:57,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:57,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:57,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:57,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:57,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 13:58,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 13:58,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 13:58,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 13:59,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 13:59,bike,NA,NA,1,Marino,Marino,,,Marino Crescent Park
+11/06/2025 14:00,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:00,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:00,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:00,delivery bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:01,delivery bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:01,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:01,bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 14:02,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:02,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:03,bike,NA,NA,1,City centre,Marino,,through fairview park,Marino Crescent Park
+11/06/2025 14:03,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:04,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:04,moby,NA,NA,1,here,City centre,over red,,Marino Crescent Park
+11/06/2025 14:05,delivery bike,NA,NA,1,Marino,City centre,"on road,through crossing",,Marino Crescent Park
+11/06/2025 14:05,delivery bike,NA,NA,1,Marino,City centre,"on road,through crossing",,Marino Crescent Park
+11/06/2025 14:06,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:07,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:07,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:07,bike,NA,NA,1,Marino,Clontarf,over red,,Marino Crescent Park
+11/06/2025 14:09,bike,NA,NA,1,City centre,Clontarf,over red,,Marino Crescent Park
+11/06/2025 14:09,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:09,moby,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:09,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:11,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:11,delivery bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:12,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:13,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:13,delivery bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 14:14,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:16,bike,NA,NA,1,Clontarf,Marino,,,Marino Crescent Park
+11/06/2025 14:15,child bike,NA,NA,1,Marino,City centre,on path,,Marino Crescent Park
+11/06/2025 14:15,delivery bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 14:15,bike,NA,NA,1,Marino,City centre,through crossing,,Marino Crescent Park
+11/06/2025 14:15,bike,NA,NA,1,Marino,City centre,through crossing,,Marino Crescent Park
+11/06/2025 14:16,delivery bike,NA,NA,1,Marino,City centre,through crossing,,Marino Crescent Park
+11/06/2025 14:16,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:16,bike,NA,NA,1,Clontarf,Marino,over red,,Marino Crescent Park
+11/06/2025 14:17,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:17,bike,NA,NA,1,Clontarf,Clontarf,,,Marino Crescent Park
+11/06/2025 14:18,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:18,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:18,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:18,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:18,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:19,delivery bike,NA,NA,1,Marino,City centre,over red,,Marino Crescent Park
+11/06/2025 14:19,cargo bike,NA,NA,1,City centre,Clontarf,over red,an post,Marino Crescent Park
+11/06/2025 14:19,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:19,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:20,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:20,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:20,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:20,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:20,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:21,child bike,NA,NA,1,City centre,Clontarf,on path,with parent on foot,Marino Crescent Park
+11/06/2025 14:21,child bike,NA,NA,1,City centre,Clontarf,on path,with parent on foot,Marino Crescent Park
+11/06/2025 14:21,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:21,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:21,bike,NA,NA,1,Marino,Clontarf,,,Marino Crescent Park
+11/06/2025 14:22,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:22,bike,NA,NA,1,Marino,City centre,,,Marino Crescent Park
+11/06/2025 14:22,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:22,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:22,bike,NA,NA,1,Clontarf,Marino,wrong side,,Marino Crescent Park
+11/06/2025 14:23,bike,NA,NA,1,Marino,City centre,over red,in park,Marino Crescent Park
+11/06/2025 14:25,bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 14:25,delivery bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 14:25,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:25,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:26,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:26,bike,NA,NA,1,Marino,City centre,"on road,over red",,Marino Crescent Park
+11/06/2025 14:26,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:26,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:26,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+11/06/2025 14:27,bike,NA,NA,1,City centre,Marino,,,Marino Crescent Park
+11/06/2025 14:27,bike,NA,NA,1,City centre,Clontarf,,,Marino Crescent Park
+11/06/2025 14:28,bike,NA,NA,1,Clontarf,City centre,,,Marino Crescent Park
+17/06/2025 14:47,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:47,cargo bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:47,delivery bike,NA,NA,1,City centre,Liffey,,,Annesley Bridge
+17/06/2025 14:48,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:48,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:48,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:49,bike,NA,NA,1,City centre,Marino,,,Annesley Bridge
+17/06/2025 14:49,delivery bike,NA,NA,1,City centre,Marino,,,Annesley Bridge
+17/06/2025 14:49,bike,NA,NA,1,Clontarf,City centre,over red,,Annesley Bridge
+17/06/2025 14:49,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 14:50,bike,NA,NA,1,Clontarf,City centre,over red,,Annesley Bridge
+17/06/2025 14:50,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:50,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:50,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:51,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:51,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 14:51,delivery bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 14:52,bike,NA,NA,1,City centre,Liffey,,,Annesley Bridge
+17/06/2025 14:52,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:53,delivery bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 14:53,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 14:53,delivery bike,NA,NA,1,Clontarf,City centre,over red,,Annesley Bridge
+17/06/2025 14:53,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:54,bike,NA,NA,1,City centre,Clontarf,on road,,Annesley Bridge
+17/06/2025 14:54,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:54,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:55,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:55,delivery bike,NA,NA,1,Liffey,City centre,,,Annesley Bridge
+17/06/2025 14:56,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:57,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 14:57,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 14:57,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 14:57,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:58,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:58,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 14:58,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 14:59,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,City centre,Clontarf,on road,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,City centre,Marino,on path,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:01,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:02,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:02,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:02,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:03,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:03,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:03,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:03,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 15:03,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:03,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:04,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:04,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:05,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:06,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:06,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:06,bike,NA,NA,1,Liffey,Marino,,,Annesley Bridge
+17/06/2025 15:06,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:06,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:06,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:07,bike,NA,NA,1,City centre,Clontarf,wrong side,,Annesley Bridge
+17/06/2025 15:07,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:08,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:08,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:08,delivery bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:08,bike,NA,NA,1,Marino,City centre,"on path,wrong side",,Annesley Bridge
+17/06/2025 15:08,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:08,delivery bike,NA,NA,1,Clontarf,Marino,wrong side,,Annesley Bridge
+17/06/2025 15:08,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 15:09,bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 15:09,delivery bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 15:09,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:10,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:10,bike,NA,NA,1,Clontarf,City centre,over red,,Annesley Bridge
+17/06/2025 15:11,bike,NA,NA,1,City centre,Liffey,through crossing,,Annesley Bridge
+17/06/2025 15:11,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:11,child bike,NA,NA,1,City centre,Clontarf,,w woman on bike,Annesley Bridge
+17/06/2025 15:11,child bike,NA,NA,1,City centre,Clontarf,,w woman on bike,Annesley Bridge
+17/06/2025 15:11,child bike,NA,NA,1,City centre,Clontarf,,w woman on bike,Annesley Bridge
+17/06/2025 15:11,bike,NA,NA,1,City centre,Clontarf,,w child,Annesley Bridge
+17/06/2025 15:12,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:12,bike,NA,NA,1,City centre,Clontarf,on road,,Annesley Bridge
+17/06/2025 15:12,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:12,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:13,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:13,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:13,bike,NA,NA,1,Marino,Clontarf,"on road,wrong side",,Annesley Bridge
+17/06/2025 15:14,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:14,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:14,bike,NA,NA,1,City centre,Clontarf,wrong side,,Annesley Bridge
+17/06/2025 15:14,delivery bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 15:15,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:15,bike,NA,NA,1,Liffey,Marino,,,Annesley Bridge
+17/06/2025 15:15,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:15,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:16,bike,NA,NA,1,Marino,Clontarf,wrong side,,Annesley Bridge
+17/06/2025 15:16,bike,NA,NA,1,Clontarf,City centre,over red,,Annesley Bridge
+17/06/2025 15:16,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:16,bike,NA,NA,1,City centre,Clontarf,,let pedestrian cross in front of him,Annesley Bridge
+17/06/2025 15:17,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 15:17,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:17,bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 15:18,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:18,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:18,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:18,delivery bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:18,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:19,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:19,bike,NA,NA,1,City centre,Marino,wrong side,,Annesley Bridge
+17/06/2025 15:21,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:21,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:21,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:21,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:22,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:22,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:23,delivery bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:23,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:24,bike,NA,NA,1,City centre,Clontarf,"on road,over red",,Annesley Bridge
+17/06/2025 15:21,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:21,bike,NA,NA,1,City centre,Marino,,,Annesley Bridge
+17/06/2025 15:21,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:22,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:22,bike,NA,NA,1,Liffey,City centre,,,Annesley Bridge
+17/06/2025 15:23,delivery bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:23,bike,NA,NA,1,Liffey,Clontarf,,,Annesley Bridge
+17/06/2025 15:24,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:24,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:24,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:24,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:25,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:25,delivery bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:25,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:25,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:26,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:26,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:26,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:27,bike,NA,NA,1,City centre,Liffey,wrong side,,Annesley Bridge
+17/06/2025 15:27,delivery bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:28,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:29,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:30,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:31,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:31,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:31,bike,NA,NA,1,Clontarf,City centre,,w child,Annesley Bridge
+17/06/2025 15:31,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:31,bike,NA,NA,1,Liffey,Marino,,,Annesley Bridge
+17/06/2025 15:31,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:32,bike,NA,NA,1,Liffey,Clontarf,,,Annesley Bridge
+17/06/2025 15:32,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:32,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:33,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:33,bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 15:33,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:33,bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 15:34,bike,NA,NA,1,City centre,Clontarf,"on road,over red",,Annesley Bridge
+17/06/2025 15:34,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:34,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:35,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:35,bike,NA,NA,1,Clontarf,Marino,"on path,wrong side",,Annesley Bridge
+17/06/2025 15:35,bike,NA,NA,1,Marino,Liffey,,,Annesley Bridge
+17/06/2025 15:35,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 15:36,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:36,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:36,delivery bike,NA,NA,1,City centre,Clontarf,on road,,Annesley Bridge
+17/06/2025 15:36,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:36,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:36,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:37,bike,NA,NA,1,Liffey,Marino,,,Annesley Bridge
+17/06/2025 15:37,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:37,delivery bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:38,bike,NA,NA,1,Clontarf,Marino,"on path,wrong side",,Annesley Bridge
+17/06/2025 15:38,delivery bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:38,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:38,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:39,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:39,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:39,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:39,delivery bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:39,delivery bike,NA,NA,1,Liffey,City centre,,,Annesley Bridge
+17/06/2025 15:39,delivery bike,NA,NA,1,Liffey,Clontarf,,,Annesley Bridge
+17/06/2025 15:39,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:39,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:40,bike,NA,NA,1,Liffey,Marino,,,Annesley Bridge
+17/06/2025 15:40,bike,NA,NA,1,Liffey,Marino,,,Annesley Bridge
+17/06/2025 15:40,delivery bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:41,delivery bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:40,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:41,bike,NA,NA,1,Liffey,City centre,,,Annesley Bridge
+17/06/2025 15:41,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:41,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:41,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:42,bike,NA,NA,1,Clontarf,City centre,over red,,Annesley Bridge
+17/06/2025 15:42,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:42,bike,NA,NA,1,Liffey,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:42,bike,NA,NA,1,City centre,Clontarf,over red,,Annesley Bridge
+17/06/2025 15:43,delivery bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:43,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:43,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:44,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:44,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:44,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:44,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 15:44,delivery bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:44,bike,NA,NA,1,City centre,Liffey,,,Annesley Bridge
+17/06/2025 15:45,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:45,bike,NA,NA,1,Marino,Clontarf,,,Annesley Bridge
+17/06/2025 15:45,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:46,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:46,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:47,bike,NA,NA,1,Liffey,City centre,,,Annesley Bridge
+17/06/2025 15:47,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:47,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:47,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:47,bike,NA,NA,1,City centre,Clontarf,,,Annesley Bridge
+17/06/2025 15:47,bike,NA,NA,1,Clontarf,City centre,,,Annesley Bridge
+17/06/2025 15:47,bike,NA,NA,1,Clontarf,Marino,,,Annesley Bridge
+17/06/2025 15:48,bike,NA,NA,1,Clontarf,Liffey,,,Annesley Bridge
+25/06/2025 17:07,bike,NA,NA,1,Liffey,,,,Newcomen Bridge SW
+25/06/2025 17:07,bike,NA,NA,1,Liffey,Clontarf,,,Newcomen Bridge SW
+25/06/2025 17:07,bike,NA,NA,1,Clontarf,,,,Newcomen Bridge SW
+25/06/2025 17:07,bike,NA,NA,1,Liffey,,,,Newcomen Bridge SW
+25/06/2025 17:07,bike,NA,NA,1,Clontarf,,,,Newcomen Bridge SW
+25/06/2025 17:07,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:07,bike,NA,NA,1,Clontarf,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,Liffey,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,Liffey,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,Liffey,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,Clontarf,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,City centre,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,City centre,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:08,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,cargo bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:11,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:11,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:11,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:11,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:11,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:11,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:11,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:11,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:12,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:12,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:12,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:12,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:13,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:13,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:13,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:13,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,9,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:14,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:15,bike,NA,NA,2,,,on path,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:16,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:17,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:17,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:17,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:17,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:17,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:18,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:18,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:18,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:18,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:18,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:19,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:19,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:19,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:20,delivery bike,NA,NA,3,,,wrong side,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:20,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:21,cargo bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:21,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:22,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:22,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:22,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:22,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:22,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:22,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:22,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 17:23,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:23,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:23,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:23,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:23,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:23,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:24,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:25,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:26,cargo bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:26,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:27,cargo bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:28,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,8,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:28,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:29,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:29,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:29,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:29,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:29,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:29,delivery bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:29,bike,NA,NA,1,,,,w child,Newcomen Bridge SW
+25/06/2025 17:30,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:30,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:30,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:30,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:31,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:31,bike,NA,NA,3,,,over red,,Newcomen Bridge SW
+25/06/2025 17:31,cargo bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:31,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 17:31,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:31,bike,NA,NA,2,,,on path,,Newcomen Bridge SW
+25/06/2025 17:32,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:32,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:32,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:32,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:32,bike,NA,NA,2,,,over red,,Newcomen Bridge SW
+25/06/2025 17:32,delivery bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:32,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:33,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:34,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:34,bike,NA,NA,6,,,over red,,Newcomen Bridge SW
+25/06/2025 17:34,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:34,bike,NA,NA,1,,,"over red,on road",,Newcomen Bridge SW
+25/06/2025 17:34,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:35,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:35,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:35,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:35,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:35,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:35,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:35,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:35,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:36,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:36,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:36,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:36,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:37,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:37,bike,NA,NA,4,,,over red,,Newcomen Bridge SW
+25/06/2025 17:37,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:37,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:37,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:37,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:37,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:37,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:38,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:38,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 17:38,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:38,bike,NA,NA,7,,,,,Newcomen Bridge SW
+25/06/2025 17:38,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:38,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:38,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:38,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:39,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:39,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:39,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:39,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:39,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:40,bike,NA,NA,1,,,wrong side,,Newcomen Bridge SW
+25/06/2025 17:40,bike,NA,NA,7,,,over red,,Newcomen Bridge SW
+25/06/2025 17:40,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:40,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:40,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:41,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:41,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:41,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:41,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:41,bike,NA,NA,13,,,,,Newcomen Bridge SW
+25/06/2025 17:42,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:42,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:42,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:42,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:43,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:42,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:43,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 17:43,bike,NA,NA,2,,,on path,,Newcomen Bridge SW
+25/06/2025 17:43,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:43,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:43,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:44,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:44,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:44,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:44,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:44,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:45,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:45,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:45,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:45,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:45,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:45,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:45,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:45,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:45,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:46,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:46,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:46,bike,NA,NA,2,,,over red,,Newcomen Bridge SW
+25/06/2025 17:46,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:46,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,1,,,,w child,Newcomen Bridge SW
+25/06/2025 17:47,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:48,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:48,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:48,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:48,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:48,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:48,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:49,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:49,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:49,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:49,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:49,bike,NA,NA,1,,,wrong side,,Newcomen Bridge SW
+25/06/2025 17:49,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:50,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:50,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:50,bike,NA,NA,7,,,,,Newcomen Bridge SW
+25/06/2025 17:50,bike,NA,NA,2,,,over red,,Newcomen Bridge SW
+25/06/2025 17:50,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:51,bike,NA,NA,2,,,over red,,Newcomen Bridge SW
+25/06/2025 17:51,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:51,bike,NA,NA,9,,,,,Newcomen Bridge SW
+25/06/2025 17:51,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:51,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:51,delivery bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:52,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:52,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:52,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:52,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:52,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:52,bike,NA,NA,1,,,wrong side,,Newcomen Bridge SW
+25/06/2025 17:52,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:53,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:53,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:53,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:53,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:54,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:54,delivery bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:54,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:54,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:54,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 17:54,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:54,bike,NA,NA,1,,,"on road,wrong side",,Newcomen Bridge SW
+25/06/2025 17:54,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:55,bike,NA,NA,1,,,wrong side,,Newcomen Bridge SW
+25/06/2025 17:55,bike,NA,NA,6,,,,,Newcomen Bridge SW
+25/06/2025 17:55,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:55,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:55,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:55,bike,NA,NA,2,,,on path,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:56,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:57,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 17:57,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:57,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 17:57,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:58,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:58,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 17:58,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:58,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:58,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:58,bike,NA,NA,2,,,over red,,Newcomen Bridge SW
+25/06/2025 17:59,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:59,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 17:59,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 17:59,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:59,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 17:59,bike,NA,NA,2,,,on path,,Newcomen Bridge SW
+25/06/2025 17:59,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 18:00,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:00,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 18:00,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 18:00,bike,NA,NA,1,,,,w child,Newcomen Bridge SW
+25/06/2025 18:00,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:00,bike,NA,NA,5,,,,,Newcomen Bridge SW
+25/06/2025 18:01,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:01,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:01,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:01,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 18:01,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 18:01,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:02,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 18:02,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 18:02,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:02,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 18:03,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 18:03,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:03,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:03,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:04,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 18:04,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:04,bike,NA,NA,3,,,over red,,Newcomen Bridge SW
+25/06/2025 18:04,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 18:04,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:04,bike,NA,NA,7,,,,,Newcomen Bridge SW
+25/06/2025 18:04,bike,NA,NA,7,,,,,Newcomen Bridge SW
+25/06/2025 18:04,bike,NA,NA,1,,,,w child,Newcomen Bridge SW
+25/06/2025 18:05,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:05,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:05,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:05,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:05,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,1,,,over red,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,1,,,wrong side,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,1,,,wrong side,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,2,,,on path,,Newcomen Bridge SW
+25/06/2025 18:06,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:07,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:07,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:07,bike,NA,NA,2,,,over red,,Newcomen Bridge SW
+25/06/2025 18:07,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+25/06/2025 18:07,bike,NA,NA,7,,,,,Newcomen Bridge SW
+25/06/2025 18:08,bike,NA,NA,1,,,two on one bike,,Newcomen Bridge SW
+25/06/2025 18:08,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:08,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 18:08,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 18:08,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:08,delivery bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:08,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,1,,,wrong side,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,1,,,on path,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,2,,,,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,3,,,,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,4,,,,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:09,bike,NA,NA,4,,,over red,,Newcomen Bridge SW
+25/06/2025 18:10,bike,NA,NA,2,,,over red,,Newcomen Bridge SW
+25/06/2025 18:10,bike,NA,NA,1,,,,,Newcomen Bridge SW
+25/06/2025 18:10,bike,NA,NA,1,,,on road,,Newcomen Bridge SW
+15/08/2025 16:23,bike,,,6,,,,,Marino Crescent Park
+15/08/2025 16:24,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:24,,,bike,2,,,over red,,Marino Crescent Park
+15/08/2025 16:24,cargo bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:24,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:25,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:25,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:25,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:25,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:26,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:26,,,bike,1,,,on road,,Marino Crescent Park
+15/08/2025 16:26,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:26,,bike,,1,,,,,Marino Crescent Park
+15/08/2025 16:26,,bike,,2,,,on road,,Marino Crescent Park
+15/08/2025 16:27,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:27,,,bike,2,,,over red,,Marino Crescent Park
+15/08/2025 16:27,,,bike,1,,,on path,,Marino Crescent Park
+15/08/2025 16:28,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:28,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:28,,,delivery bike,1,,,on road,,Marino Crescent Park
+15/08/2025 16:29,delivery bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:29,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:29,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:29,bike,,,3,,,,,Marino Crescent Park
+15/08/2025 16:30,delivery bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:30,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:30,,,bike,5,,,,,Marino Crescent Park
+15/08/2025 16:31,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:31,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:31,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:31,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:32,,,delivery bike,1,,,on road,,Marino Crescent Park
+15/08/2025 16:32,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:32,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:33,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:33,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:33,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:33,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:33,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:34,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:34,,,delivery bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:34,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:35,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:35,,,bike,1,,,on road,,Marino Crescent Park
+15/08/2025 16:36,delivery bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:36,,,bike,4,,,,,Marino Crescent Park
+15/08/2025 16:36,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:36,bike,,,1,,,on path,,Marino Crescent Park
+15/08/2025 16:37,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:37,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:37,,,bike,1,,,"over red,on road",,Marino Crescent Park
+15/08/2025 16:37,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:38,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:38,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:38,bike,,,1,,,wrong side,,Marino Crescent Park
+15/08/2025 16:38,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:38,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:38,bike,,,4,,,,,Marino Crescent Park
+15/08/2025 16:39,,,delivery bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:39,,,bike,3,,,,,Marino Crescent Park
+15/08/2025 16:39,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:39,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:39,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:40,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:40,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:41,,,bike,1,,,,w child,Marino Crescent Park
+15/08/2025 16:41,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:41,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:41,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:41,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:42,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:42,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:42,delivery bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:42,,,delivery bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:42,bike,,,1,,,wrong side,,Marino Crescent Park
+15/08/2025 16:43,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:43,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:43,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:43,delivery bike,,,1,,,on road,,Marino Crescent Park
+15/08/2025 16:43,bike,,,3,,,,,Marino Crescent Park
+15/08/2025 16:43,,,bike,1,,,on road,,Marino Crescent Park
+15/08/2025 16:44,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:44,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:44,,,bike,4,,,,,Marino Crescent Park
+15/08/2025 16:45,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:45,bike,,,1,,,on road,,Marino Crescent Park
+15/08/2025 16:45,,,delivery bike,1,,,,,Marino Crescent Park
+15/08/2025 16:46,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:46,,,bike,4,,,,,Marino Crescent Park
+15/08/2025 16:46,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:47,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:47,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:47,child bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:47,child bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:47,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:47,bike,,,1,,,on path,,Marino Crescent Park
+15/08/2025 16:47,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:47,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:48,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:48,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:48,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:48,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:48,,bike,,1,,,,,Marino Crescent Park
+15/08/2025 16:48,,,bike,1,,,on path,,Marino Crescent Park
+15/08/2025 16:48,,,delivery bike,1,,,,,Marino Crescent Park
+15/08/2025 16:48,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:49,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:49,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:49,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:49,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:49,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:50,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:50,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:51,,,bike,1,,,,w child,Marino Crescent Park
+15/08/2025 16:51,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:51,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:51,delivery bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:52,,bike,,2,,,,,Marino Crescent Park
+15/08/2025 16:52,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:52,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:52,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:52,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:52,,,delivery bike,1,,,,,Marino Crescent Park
+15/08/2025 16:52,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:53,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:53,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:53,bike,,,3,,,,,Marino Crescent Park
+15/08/2025 16:53,,,delivery bike,1,,,on road,,Marino Crescent Park
+15/08/2025 16:53,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:54,delivery bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:54,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:54,bike,,,1,,,wrong side,,Marino Crescent Park
+15/08/2025 16:55,bike,,,3,,,,,Marino Crescent Park
+15/08/2025 16:55,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 16:55,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:55,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:55,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:55,bike,,,1,,,,w child,Marino Crescent Park
+15/08/2025 16:56,,,bike,2,,,over red,,Marino Crescent Park
+15/08/2025 16:56,bike,,,2,,,on road,,Marino Crescent Park
+15/08/2025 16:56,bike,,,1,,,on path,,Marino Crescent Park
+15/08/2025 16:56,delivery bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:56,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 16:57,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:57,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:57,bike,,,1,,,wrong side,,Marino Crescent Park
+15/08/2025 16:57,bike,,,2,,,,w child ,Marino Crescent Park
+15/08/2025 16:57,bike,,,3,,,,,Marino Crescent Park
+15/08/2025 16:58,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:58,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:58,,,bike,2,,,over red,,Marino Crescent Park
+15/08/2025 16:58,,,bike,2,,,,,Marino Crescent Park
+15/08/2025 16:58,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 16:59,,,bike,1,,,over red,,Marino Crescent Park
+15/08/2025 16:59,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 17:00,,,bike,1,,,on road,,Marino Crescent Park
+15/08/2025 17:00,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 17:01,bike,,,1,,,,,Marino Crescent Park
+15/08/2025 17:01,,,delivery bike,1,,,,,Marino Crescent Park
+15/08/2025 17:01,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 17:01,,,bike,1,,,"over red,on road",,Marino Crescent Park
+15/08/2025 17:01,bike,,,6,,,,,Marino Crescent Park
+15/08/2025 17:02,,,bike,1,,,,,Marino Crescent Park
+15/08/2025 17:02,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 17:03,bike,,,3,,,,,Marino Crescent Park
+15/08/2025 17:03,delivery bike,,,4,,,,,Marino Crescent Park
+15/08/2025 17:04,,,bike,6,,,,,Marino Crescent Park
+15/08/2025 17:05,bike,,,2,,,,,Marino Crescent Park
+15/08/2025 17:05,,,bike,2,,,on road,,Marino Crescent Park
+15/08/2025 17:06,bike,,,6,,,,,Marino Crescent Park
+15/08/2025 17:12,cargo bike,,,1,,,,,Marino Crescent Park
+15/08/2025 17:07,,,bike,7,,,,,Marino Crescent Park
+15/08/2025 17:07,moby,,,1,,,,,Marino Crescent Park
+15/08/2025 17:08,,,bike,17,,,,,Marino Crescent Park
+15/08/2025 17:09,bike,,,18,,,,,Marino Crescent Park
+15/08/2025 17:09,,,bike,2,,,over red,,Marino Crescent Park
