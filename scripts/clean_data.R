@@ -1,10 +1,5 @@
 library(dplyr)
-library(tidyr)
 library(stringr)
-library(tibble)
-library(purrr)
-library(ggplot2)
-library(sjmisc)
 
 # set working directory
 directory <- 'C:/Users/emmah/Documents/GitHub/c2cc-cycleway/data/survey/'
